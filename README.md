@@ -1,2 +1,2 @@
 # python_education
-https://geekbrains.ru/courses/950
+https://geekbrains.ru/lessons/82773
