@@ -1,2 +1,3 @@
-# python_education
-https://geekbrains.ru/lessons/82773
+# GeekBrains DE 
+
+Репозиторий для сдачи практических работ
