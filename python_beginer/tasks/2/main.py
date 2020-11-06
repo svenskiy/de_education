@@ -200,7 +200,7 @@ class Store():
         for each in self.goods:
             for name in self.analytic.keys():
                 self.analytic[name].append(each[1][name])
-                
+
         self.analytic['ед.'] = set(self.analytic['ед.'])
 
 
@@ -213,6 +213,8 @@ def run():
     rating()
     store = Store(3)
     print(store.analytic)
+
+
 
 
 if __name__ == "__main__":
